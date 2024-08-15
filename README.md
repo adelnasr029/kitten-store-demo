@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 # My Awesome Project
-The Kitten Store website displays a list of items presenting the photo, price, and shopping cart feature that gives each user the ability to add items to the cart and shows how many items are in the cart and the total price
+The Kitten Store website displays a list of items presenting the photo and price. Shopping cart feature that gives each user the ability to add the preferred items to the cart and shows how many items are in the cart and the total price.
 
 ![kittenStore](https://github.com/user-attachments/assets/2ec77dc4-8def-47df-ab5f-0f1408152428)
 
